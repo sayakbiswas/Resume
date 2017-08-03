@@ -58,7 +58,7 @@
 %     LAST UPDATED DATE
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%\lastupdated
+\lastupdated
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %
@@ -139,11 +139,8 @@ Machine Learning(Coursera)\\
 Java(proficient) \textbullet{} JavaScript(proficient) \\ C/C++(prior experience) \textbullet{} C\#(basic) \\ Python(basic) \textbullet{} R(basic) \textbullet{} HTML5\textbackslash{}CSS3 \\ 
 \sectionsep
 \subsection{Technologies}
-JEE \textbullet{} IBM WebSphere Portal \textbullet{} jQuery \\ jQuery Mobile \textbullet{} React.js \textbullet{} Semantic UI \\ Bootstrap \textbullet{} Highcharts.js \textbullet{} Oracle \textbullet{} AWS \\ TensorFlow \textbullet{} OpenGL \textbullet{} Unity3D\\ Unreal \textbullet{} SOFA Framework \textbullet{} Google VR \\
+JEE \textbullet{} IBM WebSphere Portal \textbullet{} jQuery \\ jQuery Mobile \textbullet{} React.js \textbullet{} Semantic UI \\ Bootstrap \textbullet{} Highcharts.js \textbullet{} Oracle \textbullet{} AWS \\ TensorFlow \textbullet{} OpenGL \textbullet{} Unity3D\\ Unreal \textbullet{} SOFA Framework \textbullet{} Google VR SDK \\
 \sectionsep
-
-\section{Certifications}
-\textbullet{} Sun Certified Java Programmer and Oracle Certified Web Component Developer\\
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %
@@ -165,7 +162,7 @@ JEE \textbullet{} IBM WebSphere Portal \textbullet{} jQuery \\ jQuery Mobile \te
 \location{May 2017 - Aug 2017 | Novi, MI}
 \sectionsep
 
-\begin{tightemize}
+\begin{tightemize}^M
 \item Worked on developing 3D visualization features for MATLAB/Simulink.
 \item Developed a GUI tool that allows users to easily define shapes and surface profiles of road tracks in MATLAB and an Unreal engine plugin to visualize the same. Used MATLAB and Unreal C++ API.
 \item Developed programmable scene components for a simulation sequence to be controlled via Simulink.
@@ -175,9 +172,10 @@ JEE \textbullet{} IBM WebSphere Portal \textbullet{} jQuery \\ jQuery Mobile \te
 \runsubsection{Tata Consultancy Services Ltd.}
 \descript{| Software Engineer }
 \location{Mar 2012 - Dec 2015 | Hyderbad, India}
-%\sectionsep
+\sectionsep
 
 \begin{tightemize}
+\item Implemented an enhanced predictive analytics model for underwriters in a multination Insurance company which helped in automatically analyzing and predicting the risk presented by applicants.
 \item Developed a web based workflow automation and management tool using IBM WebSphere Portal, Java/JEE and SOAP web-services for a multinational Insurance company. 
 \item Implemented multiple enhancements for the above application including developing a correspondence generation module leveraging EMC Document Sciences xPression.
 \item Designed and developed a hybrid mobile dashboard app to provide visual represenations of various day-to-day metrics of all applications used in the enterprise. Implemented both HTML5 based front-end and the RESTful back-end using JEE Servlets, Jersey API and Oracle SQL.
@@ -209,7 +207,8 @@ JEE \textbullet{} IBM WebSphere Portal \textbullet{} jQuery \\ jQuery Mobile \te
 \descript{| VR Experience }
 \location{C\# | Unity3D}
 \begin{tightemize}
-\item Developed an Android/Google Cardboard app that explores how to enhance a virtual art museum by allowing users to experience and interact with a couple of Vincent Van Gogh's works in 3D while following a first person narrative.
+\item Developed an Android/Google Cardboard app that explores how to enhance a virtual art museum by allowing users to experience and interact with a couple of Vincent Van Gogh's work in 3D.
+\item Explores the artist's vision using a first-person narrative device.
 \end{tightemize}
 \sectionsep
 
@@ -218,8 +217,7 @@ JEE \textbullet{} IBM WebSphere Portal \textbullet{} jQuery \\ jQuery Mobile \te
 \location{C++ | OpenGL | SOFA | Blender | CMUSphinx}
 \begin{tightemize}
 \item Developed a multithreaded plugin for the SOFA Framework which enables user interaction with 3D scenes using voice commands.
-\item Implmented the PN-Triangles and PN-Quads algorithms in OpenGL 4 tessellation shaders to improve rendering of various organs in the scenes. 
-\item Implemented a rudimentary wetness shader for the internal organs.
+\item Implmented the PN-Triangles and PN-Quads algorithms in OpenGL 4 tessellation shaders to improve rendering of various organs in the scenes. Also, implemented a rudimentary wetness shader for the internal organs.
 \end{tightemize}
 \sectionsep
 
@@ -227,12 +225,13 @@ JEE \textbullet{} IBM WebSphere Portal \textbullet{} jQuery \\ jQuery Mobile \te
 %     AWARDS
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-%\section{Additional Experience \& Awards}
-%\begin{tabular}{l}
-%\textbullet{} Sun Certified Java Programmer and Oracle Certified Web Component Developer\\
-%\textbullet{} Part of Java and Mobile development Centers of Excellence in TCS\\
-%\end{tabular}
-%\sectionsep
+\section{Additional Experience \& Awards}
+\begin{tabular}{l}
+\textbullet{} Sun Certified Java Programmer and Oracle Certified Web Component Developer\\
+\textbullet{} Certified competent leader from Toastmasters International\\
+\textbullet{} Part of Java and Mobile development Centers of Excellence in TCS\\
+\end{tabular}
+\sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     PUBLICATIONS
